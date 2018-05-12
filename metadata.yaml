@@ -1,0 +1,28 @@
+_repo: Impressions-of-AmericaDuring-The-Years-1833-1834-and-1835.-In-Two-Volumes-Volume-II._23284
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Power, Tyrone
+    birthdate: 1797
+    deathdate: 1841
+    gutenberg_agent_id: '25550'
+    url: http://www.gutenberg.org/2009/agents/25550
+    wikipedia: http://en.wikipedia.org/wiki/Tyrone_Power_%281795-1841%29
+description: ''
+gutenberg_issued: '2007-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23284'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- Description and travel'
+- !lcsh 'Canada -- Description and travel'
+- !lcc 'E151'
+title: Impressions of America During the Years 1833, 1834 and 1835. Volume 2 (of 2)
+url: http://www.gutenberg.org/ebooks/23284
